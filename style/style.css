@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-size: 1.2rem;
+}
+#main{
+    background: #eee;
+}
+#title{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+#img-div{
+    background: white;
+}
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption{
+    margin: 10px 0;
+}
+#headline{
+    font-size: 2rem;
+    margin: 3rem 0;
+}
+ul{
+    margin: 0 auto;
+    max-width: 550px;
+    text-align: left;
+}
+li{
+    margin: 2rem 0;
+}
+blockquote{
+    max-width: 550px;
+    margin: 4rem auto;
+    font-style: italic;
+}
