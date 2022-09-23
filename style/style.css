@@ -1,9 +1,11 @@
 body{
     text-align: center;
     font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #main{
     background: #eee;
+    margin: 1rem;
 }
 #title{
     font-size: 3rem;
@@ -21,20 +23,25 @@ body{
 #img-caption{
     margin: 10px 0;
 }
+#tribute-info{
+    margin: 8rem auto 2rem auto;
+}
 #headline{
-    font-size: 2rem;
+    font-size: 2.3rem;
     margin: 3rem 0;
 }
 ul{
     margin: 0 auto;
-    max-width: 550px;
+    max-width: 800px;
     text-align: left;
+    font-size: 1.3rem;
 }
 li{
     margin: 2rem 0;
 }
 blockquote{
-    max-width: 550px;
-    margin: 4rem auto;
+    max-width: 600px;
+    margin: 6rem auto;
     font-style: italic;
+    font-size: 2rem;
 }
